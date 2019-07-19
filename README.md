@@ -21,3 +21,9 @@ Nel caso di utilizzo di Databricks:
 - scompattare il file 20190716-dataset.zip ed importare i file dataset in DBFS seguendo le istruzioni: https://docs.databricks.com/user-guide/importing-data.html
 - creare un nuovo cluster seguendo le istruzioni: https://docs.databricks.com/user-guide/clusters/create.html
 - scompattere il file 20190716-notebook.zip ed importare i file su Databricks seguendo le istruzioni: https://docs.databricks.com/user-guide/notebooks/notebook-manage.html
+
+Si suggerisce di eseguire i notebook nel seguente ordine:
+- 20190716-Basic_1.ipynb
+- 20190716-Basic_2.ipynb
+- 20190716-SYNDOS.ipynb
+- 20190716-SPLICING-SITE-PREDICTION.ipynb
